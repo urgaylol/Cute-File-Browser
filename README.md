@@ -1,25 +1,29 @@
 # Cute-File-Browser
-Based on https://tutorialzine.com/2014/09/cute-file-browser-jquery-ajax-php
+Based on https://github.com/Jhamende/Cute-File-Browser which is based on https://tutorialzine.com/2014/09/cute-file-browser-jquery-ajax-php
+- Changed the accent color
+- Centered the buttons
+- Added a logo
+
 - Added Fancybox Support
 - Added custom icon management
 - Modified  /assets/js/script.js in order to be supported by most recent jquery version, also better for fancybox. 
  
 -----
 
-Demo: https://hamende.eu/FileBrowserDemo/
+Why have i forked this?
+Just so there is a variation of this great file browser on here.
 
 -----
 
-###  Sample data:
-  - Photos: <a href="https://unsplash.com/" target="_blank">https://unsplash.com/</a>
-  - Video: <a href="https://videos.pexels.com" target="_blank">https://videos.pexels.com</a>
+Preview:
+https://i.imgur.com/6pWe7Q5.png
 
 -----
 
 ###  Installation instructions:
 1. Download zip-file
 2. Extract all content to your hosting space. 
-3. Place all you content into the "Home"-folder
+3. Place all you content into the "files" folder
 4. You're done :)
 
 -----
