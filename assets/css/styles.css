@@ -19,9 +19,10 @@ html {
     /* Full height */
     height: 100%; 
 	/* The image used */
-    background-image: url("../../images/background.jpg");
+    background-image: url("../../assets/bg.jpg");
     
-    background-color: #373743;
+    background-color: #302651; /*#3b1e4f; #2a2d72 #373743;*/ /* --- COAIE1 --- */
+    background-attachment: fixed;
     /* Center and scale the image nicely */
     background-position: center center;
     background-repeat: no-repeat;
@@ -29,6 +30,7 @@ html {
 
 	font: 14px normal Arial, Helvetica, sans-serif;
 	z-index: -4;
+
 }
 
 
@@ -174,7 +176,7 @@ html {
 
 .filemanager .data li {
 	border-radius: 3px;
-	background-color: #373743;
+	background-color: #302651; /*#3b1e4f; #2a2d72; #373743; #2a2d72*/ /* --- COAIE4 --- */
 	width: 307px;
 	height: 118px;
 	list-style-type: none;
@@ -190,7 +192,7 @@ html {
 }
 
 .filemanager .data li:hover {
-	background-color: #42424E;
+	background-color: #443b62; /*#291537; #42424E;*/ /* --- COAIE5 --- */
 }
 
 .filemanager .data li a {
@@ -228,7 +230,7 @@ html {
 }
 
 .filemanager .nothingfound {
-	background-color: #373743;
+	background-color: #302651; /*#2a2d72; #373743;*/
 	border-radius: 10px;
 	width: 23em;
 	height: 21em;
@@ -624,7 +626,7 @@ footer #tzine-actions iframe{
 }
 
 .button {
-    background-color: #373743; 
+    background-color: #302651; /*#3b1e4f #383c98; #373743;*/ /* --- COAIE2 --- */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -643,7 +645,7 @@ footer #tzine-actions iframe{
 }
 
 .button:hover {
-	background-color: #42424E;
+	background-color: #443b62; /*#291537 #272a6a #42424E;*/ /* --- COAIE3 --- */
 }
 
 .fancybox-content {
